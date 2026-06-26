@@ -4,6 +4,14 @@
 
 This Python project simulates a company's sales performance over 30 working days. It generates random sales and cost data, calculates daily profit and total profit, organizes the data using Pandas, and visualizes the results with Matplotlib.
 
+
+
+##project preview
+
+![Sales Analysis](Sales-analysis.png)
+
+
+
 ## Features
 
 - Generate 30 days of sales data.
@@ -12,6 +20,15 @@ This Python project simulates a company's sales performance over 30 working days
 - Calculate total profit.
 - Display the data in a Pandas DataFrame.
 - Visualize Sales, Costs, and Profit using line charts.
+
+
+## Output
+
+The program generates:
+- A table containing daily sales, costs, and profit.
+- The total profit over 30 working days.
+- A line chart comparing Sales, Costs, and Profit.
+
 
 ## Technologies Used
 
