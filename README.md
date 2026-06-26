@@ -8,7 +8,7 @@ This Python project simulates a company's sales performance over 30 working days
 
 ##project preview
 
-![Sales Analysis](Sales-analysis.png)
+![Sales Analysis](sales-analysis.png)
 
 
 
